@@ -53,8 +53,6 @@ Este guia fornece instruções completas para configurar o FIWARE com Docker, in
 
 > [Guia de Instalação do FIWARE](https://github.com/fabiocabrini/fiware)
 
-Este guia fornece instruções completas para configurar o FIWARE com Docker, incluindo o Orion Broker, o STH-Comet, e outros componentes essenciais para o desenvolvimento de aplicações IoT.
-
 
 ## Postman Collection
 
