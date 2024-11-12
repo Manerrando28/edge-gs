@@ -27,6 +27,7 @@ Simulação no WokWi
 Para testar a integração com o servidor Dash e monitorar os dados, um link de simulação do ESP32 foi disponibilizado através do WokWi. Com essa simulação, é possível visualizar o funcionamento do sistema sem a necessidade de hardware físico.
 
 > Clique aqui para acessar a simulação no WokWi
+> https://wokwi.com/projects/414388229332978689
 
 Tecnologias Utilizadas
 ESP32: Microcontrolador responsável pela coleta e envio de dados dos sensores.
