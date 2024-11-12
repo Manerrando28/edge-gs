@@ -148,7 +148,6 @@ A collection pode ser usada para executar as requisições diretamente e verific
   - Postman para execução das requisições.
   - Python 3.x para o servidor Dash.
   - **WokWi**: Para simulação do ESP32.
-  - 
 
 ## Futuras Melhorias
 - Adicionar notificações ao usuário quando certos limites de temperatura, umidade ou luminosidade forem atingidos.
