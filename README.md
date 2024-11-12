@@ -22,6 +22,8 @@ O dispositivo também possui um atributo adicional chamado state, que indica se 
 Além disso, um servidor Dash está configurado para exibir as informações de temperatura, umidade e luminosidade em tempo real.
 
 Simulação no WokWi
+![image](https://github.com/user-attachments/assets/3987724d-37b4-4c0f-945e-3bd6ed46a2e4)
+
 Para testar a integração com o servidor Dash e monitorar os dados, um link de simulação do ESP32 foi disponibilizado através do WokWi. Com essa simulação, é possível visualizar o funcionamento do sistema sem a necessidade de hardware físico.
 
 > Clique aqui para acessar a simulação no WokWi
