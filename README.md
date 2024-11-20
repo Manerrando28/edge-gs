@@ -4,6 +4,22 @@ Membros do Grupo
 
 -Gabriel Guilherme Leste - RM 558638
 
+# Problema
+O monitoramento de condições ambientais (temperatura, umidade e luminosidade) em tempo real é um desafio para aplicações de IoT em ambientes descentralizados. Muitos sistemas dependem de soluções centralizadas na nuvem, o que pode gerar problemas como:
+
+Alta latência na obtenção dos dados.
+Dependência de conectividade estável à internet.
+Riscos de segurança e privacidade na transmissão e armazenamento de informações sensíveis.
+Além disso, a configuração e integração de componentes para IoT e análise de dados em tempo real (como brokers MQTT, armazenamento de séries temporais e dashboards) muitas vezes são complexas, exigindo expertise técnica.
+
+# Solução
+Este projeto propõe um sistema descentralizado baseado em Edge Computing que:
+
+Reduz a dependência da nuvem ao processar os dados localmente em um microcontrolador ESP32 e utilizando FIWARE para gestão eficiente.
+Aumenta a escalabilidade e segurança com a integração do Orion Broker e do STH-Comet em containers Docker, proporcionando um ambiente modular e controlado.
+Facilita o acesso e monitoramento com um servidor Dash que exibe gráficos atualizados em tempo real.
+Permite simulação acessível com o uso do WokWi, dispensando hardware físico para testes iniciais.
+Este sistema é projetado para fornecer dados confiáveis e de fácil acesso em aplicações como agricultura, automação residencial e monitoramento ambiental urbano.
 
 # IoT Monitoring System with MQTT, STH-Comet, Orion Broker, and FIWARE with Docker
 
