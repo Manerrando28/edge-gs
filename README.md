@@ -167,6 +167,8 @@ A collection pode ser usada para executar as requisições diretamente e verific
 
 ## Futuras Melhorias
 - Adicionar notificações ao usuário quando certos limites de temperatura, umidade ou luminosidade forem atingidos.
+- ![image](https://github.com/user-attachments/assets/049e7cca-4bf7-4697-824d-d1ab88559abf)
+
 - Melhorar a interface do Dash para incluir controle do dispositivo (ligar/desligar) via MQTT.
 
 
